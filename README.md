@@ -1,4 +1,4 @@
-# 🌟 **7klu** 👋
+# 👋 **7klu** 
 
 Hey there! I’m **@7klu**, a passionate beginner in the world of **technology and coding**.  
 I’m constantly learning, exploring, and creating cool things! 🚀  
