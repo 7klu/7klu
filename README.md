@@ -22,7 +22,7 @@ Here’s what I’m diving into right now:
 > ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 > ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-> ![Assembly](https://img.shields.io/badge/-ASM-007ACC?style=flat-square&logo=assembly&logoColor=white)  
+> ![NASM](https://img.shields.io/badge/-NASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)  
 ---
 
 ## 💬 **Get in Touch**
