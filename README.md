@@ -1,4 +1,4 @@
-# 🌟 **@7klu** 👋
+# 🌟 **7klu** 👋
 
 Hey there! I’m **@7klu**, a passionate beginner in the world of **technology and coding**.  
 I’m constantly learning, exploring, and creating cool things! 🚀  
@@ -8,10 +8,10 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 ## 🎯 **Dream Projects**
 
 ### **Create My Own Operating System** 🖥️ 
-> 🟢 **A fast, efficient, and personalized OS that's truly mine.**
+> **A fast, efficient, and personalized OS that's truly mine.**
 
 ### **Design a Programming Language** 🧵
-> 🟢 **A simple yet powerful language to solve real-world problems.**
+> **A simple yet powerful language to solve real-world problems.**
 
 ---
 
