@@ -1,21 +1,21 @@
-# 👋 **7klu** 
+# `👋` **7klu** 
 
 Hey there! I’m **@7klu**, a passionate beginner in the world of **technology and coding**.  
-I’m constantly learning, exploring, and creating cool things! 🚀  
+I’m constantly learning, exploring, and creating cool things! `🚀` 
 
 ---
 
-## 🎯 **Dream Projects**
+## `🎯` **Dream Projects**
 
-### **Create My Own Operating System** 🖥️ 
+### **Create My Own Operating System** `🖥️` 
 > **A fast, efficient, and personalized OS that's truly mine.**
 
-### **Design a Programming Language** 🧵
+### **Design a Programming Language** `🧵`
 > **A simple yet powerful language to solve real-world problems.**
 
 ---
 
-## ✨ **What I’m Learning**
+## `✨` **What I’m Learning**
 
 Here’s what I’m diving into right now:
 > ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
@@ -25,8 +25,8 @@ Here’s what I’m diving into right now:
 > ![NASM](https://img.shields.io/badge/-NASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)  
 ---
 
-## 💬 **Get in Touch**
+## `💬` **Get in Touch**
 
 If you’re into similar projects or have advice for my journey:
-> 📨 Feel free to **reach out** or collaborate!  
-> 🌟 Let’s **learn and grow together** in this exciting field.
+> `📨` Feel free to **reach out** or collaborate!  
+> `🌟` Let’s **learn and grow together** in this exciting field.
