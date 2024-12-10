@@ -13,10 +13,10 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 
 ## 🎯 **Dream Projects**
 
-### **Create My Own Operating System** `🖥️`  
+### **Create My Own Operating System** 🖥️ 
 > 🟢 **A fast, efficient, and personalized OS that's truly mine.**
 
-### **Design a Programming Language** `🧵`  
+### **Design a Programming Language** 🧵
 > 🟢 **A simple yet powerful language to solve real-world problems.**
 
 ---
