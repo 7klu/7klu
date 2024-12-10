@@ -9,7 +9,7 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 
 > **🧑‍💻 Aspiring Developer**  
 > **💡 Fascinated by complex systems**  
-> **🔧 Building skills in programming, OS design, and more**
+> **🔧 Building skills in programming, OS design, and more**  
 
 ---
 
@@ -27,12 +27,10 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 
 Here’s what I’m diving into right now:  
 
-| **Language**        | **Icon**                                          |
-|----------------------|---------------------------------------------------|
-| **C**               | ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white) |
-| **Go (Golang)**      | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Python**           | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Ruby**             | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+- **C** ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
+- **Go (Golang)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- **Ruby** ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
 
 ---
 
