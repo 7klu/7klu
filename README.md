@@ -8,7 +8,9 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 ## 🌱 **Who Am I?**
 
 > **🧑‍💻 Beginner Developer**
+
 > **💡 Passionate about technology and software**
+
 > **🔧 Always curious to learn more and explore new ideas.**
 
 ---
