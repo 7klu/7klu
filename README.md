@@ -27,10 +27,10 @@ I’m constantly learning, exploring, and creating cool things! 🚀
 
 Here’s what I’m diving into right now:  
 
-- **C** ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
+- **C**           ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
 - **Go (Golang)** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- **Ruby** ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
+- **Python**      ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- **Ruby**        ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
 
 ---
 
