@@ -34,14 +34,6 @@ Here’s what I’m diving into right now:
 
 ---
 
-### **Key Focus Areas**  
-```diff
-+ 💻 Low-level programming for OS development.  
-+ 🏗️ System design and architecture fundamentals.  
-```
-
----
-
 ## 💬 **Get in Touch**
 
 If you’re into similar projects or have advice for my journey:  
