@@ -23,7 +23,6 @@ Here’s what I’m diving into right now:
 > ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 > ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
 > ![NASM](https://img.shields.io/badge/-NASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
-
 ---
 
 ## `💬` **Get in Touch**
