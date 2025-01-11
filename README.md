@@ -34,6 +34,6 @@ If you’re into cybersecurity, let’s connect and learn together!
 
 Want to collaborate or chat? Find me here:  
 
-🎮 **Discord:** `7klu#1234`  
+🎮 **Discord:** `1babouin`  
 
 Let’s learn, build, and grow in this exciting field together!  
