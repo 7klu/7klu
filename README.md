@@ -1,32 +1,47 @@
-# `👋` **7klu** 
+# ⚡ **Hi, I’m @7klu!**  
 
-Hey there! I’m **@7klu**, a passionate beginner in the world of **technology and coding**.  
-I’m constantly learning, exploring, and creating cool things! `🚀` 
-
----
-
-## `🎯` **Dream Projects**
-
-### **Create My Own Operating System** `🖥️` 
-> **A fast, efficient, and personalized OS that's truly mine.**
-
-### **Design a Programming Language** `🧵`
-> **A simple yet powerful language to solve real-world problems.**
+Welcome to my profile! I’m a **passionate beginner** in the world of **technology and coding**, eager to learn, explore, and create amazing projects. 🚀  
 
 ---
 
-## `✨` **What I’m Learning**
+## 🎯 **My Goals**  
 
-Here’s what I’m diving into right now:
-> ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)  
-> ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-> ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
-> ![NASM](https://img.shields.io/badge/-NASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+### 🌌 **1. Build My Own Operating System**  
+> A fast, efficient, and fully personalized OS that reflects my unique vision.  
+
+### 🔗 **2. Design a Programming Language**  
+> A simple yet powerful language to solve real-world challenges with elegance.  
+
 ---
 
-## `💬` **Get in Touch**
+## 📚 **What I’m Learning**  
 
-If you’re into similar projects or have advice for my journey:
-> `📨` Feel free to **reach out** or collaborate!  
-> `🌟` Let’s **learn and grow together** in this exciting field.
+I’m currently focused on mastering these languages:  
+
+![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+
+I’m always excited to explore new tools and concepts—let me know if you have great suggestions!  
+
+---
+
+## 🛡️ **Cybersecurity Enthusiast**  
+
+I’m also diving into the field of **cybersecurity** to expand my skills in ethical hacking and security challenges.  
+
+- **[Root Me Profile](https://www.root-me.org/7klu)**  
+- Exploring **CTF challenges** and sharpening my skills daily.  
+
+If you’re into cybersecurity, let’s connect and learn together!  
+
+---
+
+## 💬 **Let’s Connect**  
+
+Want to collaborate or chat? Find me here:  
+
+🎮 **Discord:** `7klu#1234`  
+
+Let’s learn, build, and grow in this exciting field together!  
