@@ -2,8 +2,6 @@
 
 Welcome to my profile! I’m a **passionate beginner** in the world of **technology and coding**, eager to learn, explore, and create amazing projects. 🚀  
 
----
-
 ## 🎯 **My Goals**  
 
 ### 🌌 **1. Build My Own Operating System**  
@@ -11,8 +9,6 @@ Welcome to my profile! I’m a **passionate beginner** in the world of **technol
 
 ### 🔗 **2. Design a Programming Language**  
 > A simple yet powerful language to solve real-world challenges with elegance.  
-
----
 
 ## 📚 **What I’m Learning**  
 
@@ -25,8 +21,6 @@ I’m currently focused on mastering these languages:
 
 I’m always excited to explore new tools and concepts—let me know if you have great suggestions!  
 
----
-
 ## 🛡️ **Cybersecurity Enthusiast**  
 
 I’m also diving into the field of **cybersecurity** to expand my skills in ethical hacking and security challenges.  
@@ -35,8 +29,6 @@ I’m also diving into the field of **cybersecurity** to expand my skills in eth
 - Exploring **CTF challenges** and sharpening my skills daily.  
 
 If you’re into cybersecurity, let’s connect and learn together!  
-
----
 
 ## 💬 **Let’s Connect**  
 
