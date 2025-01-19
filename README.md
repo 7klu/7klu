@@ -1,7 +1,7 @@
 # `🇫🇷` **Hi, I’m @7klu!**
-Welcome to my profile! I’m a **passionate beginner** in the world of **computer science**, eager to learn, explore, and create amazing projects. 🦭
+Welcome to my profile! I’m a **passionate beginner** in the world of **computer science**, eager to learn, explore, and create amazing projects. `🦭`
 
-## 🎯 **My Goals**  
+## `🎯` **My Goals**  
 ### `🐧` **1. Build My Own Operating System**  
 A fast, efficient, and fully personalized OS that reflects my unique vision.  
 ### `🦉` **2. Design a Programming Language**  
