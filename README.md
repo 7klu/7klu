@@ -1,13 +1,13 @@
-# 🇫🇷 **Hi, I’m @7klu!**
+# `🇫🇷` **Hi, I’m @7klu!**
 Welcome to my profile! I’m a **passionate beginner** in the world of **computer science**, eager to learn, explore, and create amazing projects. 🦭
 
 ## 🎯 **My Goals**  
-### 🐧 **1. Build My Own Operating System**  
+### `🐧` **1. Build My Own Operating System**  
 A fast, efficient, and fully personalized OS that reflects my unique vision.  
-### 🦉 **2. Design a Programming Language**  
+### `🦉` **2. Design a Programming Language**  
 A simple yet powerful language to solve real-world challenges with elegance.  
 
-## 📚 **What I’m Learning**  
+## `📚` **What I’m Learning**  
 I’m currently focused on mastering these languages:  
 
 ![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
