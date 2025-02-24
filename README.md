@@ -5,7 +5,7 @@ Welcome to my profile! I’m a **passionate beginner** in the world of **compute
 ### `🐧` **1. Build My Own Operating System**  
 A fast, efficient, and fully personalized OS that reflects my unique vision.  
 ### `🦉` **2. Design a Programming Language**  
-A simple yet powerful language to solve real-world challenges with elegance.  
+A simple yet powerful language.  
 
 ## `📚` **What I’m Learning**  
 I’m currently focused on mastering these languages:  
