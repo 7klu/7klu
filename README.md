@@ -3,7 +3,7 @@ Welcome to my profile! I’m a **passionate beginner** in the world of **compute
 
 ## `🎯` **My Goals**  
 ### `🐧` **1. Build My Own Operating System**  
-A fast, efficient, and fully personalized OS that reflects my unique vision.  
+A fast, efficient, and fully personalized OS that reflects my vision.  
 ### `🦉` **2. Design a Programming Language**  
 A simple yet powerful language.  
 
