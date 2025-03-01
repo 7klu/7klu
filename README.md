@@ -10,8 +10,6 @@ A simple yet powerful language.
 ## `📚` **What I’m Learning**  
 I’m currently focused on mastering these languages:  
 
-Voici les badges avec leurs URLs pour tous les langages que tu as mentionnés :  
-
 - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -22,5 +20,3 @@ Voici les badges avec leurs URLs pour tous les langages que tu as mentionnés :
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-
-Tu peux les utiliser dans ton README GitHub ou ailleurs ! 😃🚀
