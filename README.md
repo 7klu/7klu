@@ -10,9 +10,17 @@ A simple yet powerful language.
 ## `📚` **What I’m Learning**  
 I’m currently focused on mastering these languages:  
 
-![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-%23F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-%237A42BC?style=for-the-badge&logo=julia&logoColor=white)  
+Voici les badges avec leurs URLs pour tous les langages que tu as mentionnés :  
 
+- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)  
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+- ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+
+Tu peux les utiliser dans ton README GitHub ou ailleurs ! 😃🚀
